@@ -1,4 +1,4 @@
-# 🌿 Escuto TWICE e (G)-IDLE todo dia.
+# 🌻 Faço bots pro Discord usando Javascript. E alguma coisinha ali ou aqui com Python.
+### https://discord.gg/nayeon & https://discord.gg/jihyo 
 
-## Faço bots e algumas coisas usando Javascript.
-Tenho 16 anos e infelizmente jogo LoL todo dia, fique a vontade para me adicionar: **twc#0001**.
+## 🤖Discord: ```Linn#0002```
